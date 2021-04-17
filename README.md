@@ -4,7 +4,7 @@ s = "Python syntax highlighting"
 print s
 ```
 <p align="left"> 
-Author: <a href="https://github.com/bilalalmassry">Bilal Al-Massry</a> <a href="https://github.com/riadAlnajjar">Riad Al-Najjar</a>
+Authors: <a href="https://github.com/bilalalmassry">Bilal Al-Massry</a> <a href="https://github.com/riadAlnajjar">Riad Al-Najjar</a>
   
 </br>
 </br>
